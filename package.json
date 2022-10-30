@@ -1,14 +1,30 @@
 {
-  "name": "note-taker",
+  "name": "m11-note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express.js practice. Make a note taker app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateo-Wallace/M11-Note-Taker.git"
+  },
+  "keywords": [
+    "oop",
+    "express"
+  ],
+  "author": "Mateo Wallace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mateo-Wallace/M11-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Mateo-Wallace/M11-Note-Taker#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
   }
 }
