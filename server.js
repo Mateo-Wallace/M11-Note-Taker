@@ -1,5 +1,4 @@
 // Global Modules
-const fs = require('fs');
 const path = require('path');
 
 // Third Party Modules
