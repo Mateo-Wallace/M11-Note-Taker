@@ -25,25 +25,23 @@ While building this project I learned to:
 
 ## Installation
 
+This is a deployed website so there is no true installation required
 
-
-1. Navigate to [heroku.com](heroku)
+1. Navigate to [desolate-fjord-67880.herokuapp.com/](https://desolate-fjord-67880.herokuapp.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
 
-Open your terminal, and in the command line run 
+Upon opening the website you will be greated with a home page. Click on the `Get Started` button in order to navigate to the next screen. You will be presented with a page that looks like this.
 
-	npm start
+![example note taker](./assets/noteTakerExample.png)
 
-Follow the prompts and answer as accurately as possible.
+Once on that screen you are able to add information into `Note Title` and `Note Text`. In order to save your note click the floppy disk icon that appears at the top right. 
 
-![example of user inputs](./assets/cli-example.png)
+Now to view your note click on the tab that appears on the left side of your screen with the note title. 
 
-Navigate using your arrow keys. In order to exit the questions once you are back on the menu select `Quit` from the options. 
+Should you wish to delete your note simply click on the red trash can.
 
-For an example of the application at work see the:
-- Video: [drive.google.com](https://drive.google.com/file/d/16ppX5tx42wobx9fnDh86LwEwzxS7R35P/view)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
