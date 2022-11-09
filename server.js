@@ -15,7 +15,6 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use('/api', api);
-
 // Connects all files in public folder. Ex. html to css to js
 app.use(express.static('public'));
 
